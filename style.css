@@ -1,1 +1,5 @@
-
+h2 {color: pink; font-family: Verdana;}
+h3 {color: pink;}
+label {font-size: 15px, font-weight: bold;}
+input {background-color: lightpink;}
+textarea {background-color: lightpink;}
