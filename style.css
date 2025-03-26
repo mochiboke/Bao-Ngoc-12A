@@ -9,7 +9,7 @@ h3 {color: indianred;}
 label {font-size: 20px; font-weight: bold;}
 input {background-color: pink;}
 textarea {background-color: pink;}
-.header {color: pink; background-color: white; text-align: center;padding:5px;}
+.header {color: black; background-color: white; text-align: center;padding:5px;}
 .topnav{
 overflow: hidden;
 background-color: #333;
