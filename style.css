@@ -2,12 +2,12 @@ h2 {color: firebrick; font-family: Verdana;}
 h3 {color: indianred;}
 label {font-size: 15px; font-weight: bold;}
 input {background-color: pink;}
-textarea {background-color: ivory;}
+textarea {background-color: pink;}
 
 h2 {color: pink; font-family: Verdana;}
 h3 {color: indianred;}
 label {font-size: 20px; font-weight: bold;}
-input {background-color: yellow;}
+input {background-color: pink;}
 textarea {background-color: pink;}
 .header {color: white; background-color: white; text-align: center;padding:5px;}
 .topnav{
