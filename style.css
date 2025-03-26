@@ -1,15 +1,15 @@
 h2 {color: firebrick; font-family: Verdana;}
 h3 {color: indianred;}
 label {font-size: 15px; font-weight: bold;}
-input {background-color: yellow;}
+input {background-color: pink;}
 textarea {background-color: ivory;}
 
-h2 {color: firebrick; font-family: Verdana;}
+h2 {color: pink; font-family: Verdana;}
 h3 {color: indianred;}
 label {font-size: 20px; font-weight: bold;}
 input {background-color: yellow;}
-textarea {background-color: ivory;}
-.header {color: red; background-color: white; text-align: center;padding:5px;}
+textarea {background-color: pink;}
+.header {color: white; background-color: white; text-align: center;padding:5px;}
 .topnav{
 overflow: hidden;
 background-color: #333;
@@ -17,7 +17,7 @@ background-color: #333;
 .topnav a{
 float: left;
 display: block;
-color: red;
+color: pink;
 text-align: center;
 padding: 14px 16px; 
 text-decoration: none;
