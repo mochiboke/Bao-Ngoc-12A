@@ -1,19 +1,32 @@
-h2 {color: pink; font-family: Verdana;}
-h3 {color: pink;}
-label {font-size: 15px, font-weight: bold;}
-input {background-color: lightpink;}
-textarea {background-color: lightpink;}
-.header { color : red ; background-color : #FFCC99 ; text-align : center ; padding : 5px ;}
-. topnav {
-overflow: hidden; background-color:
-#FF9999;}
-. topnav a {
-float: left;
-display: block; color: #FFCCFF; text-align: center; padding: 14px 16px; text-decoration: none;
+h2 {color: firebrick; font-family: Verdana;}
+h3 {color: indianred;}
+label {font-size: 15px; font-weight: bold;}
+input {background-color: yellow;}
+textarea {background-color: ivory;}
+
+h2 {color: firebrick; font-family: Verdana;}
+h3 {color: indianred;}
+label {font-size: 20px; font-weight: bold;}
+input {background-color: yellow;}
+textarea {background-color: ivory;}
+.header {color: red; background-color: white; text-align: center;padding:5px;}
+.topnav{
+overflow: hidden;
+background-color: #333;
 }
-. topnav a:hover {
-background-color: #FFCCCC; color: black;}
-.cot { float : left;}
-.cot1.side {width : 30% ;}
-.cot2.side {width : 70% ;}
-.footer{color : red ; background-color : #FFCC99 ; text-align : center ; padding : 2px ;}
+.topnav a{
+float: left;
+display: block;
+color: red;
+text-align: center;
+padding: 14px 16px; 
+text-decoration: none;
+}
+.column {float: left;}
+.colomn.side { width: 30%;}
+.column.middle {width: 70%;}
+.footer {
+background-color: #F1F1F1;
+text-align: center;
+padding: 10px;
+}
